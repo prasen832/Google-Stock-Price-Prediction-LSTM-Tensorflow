@@ -9,3 +9,5 @@ model.
 next day stock price.
 
 4. The prediction stock price graph is exactly following the actual price graph.
+
+The data file (CSV) is available above.
