@@ -1,4 +1,4 @@
-# Google-stock-prediction-using-CNN-Tensorflow
+# Google-stock-prediction-using-LSTM-Tensorflow
 
 1. RNN and LSTM are sequential learning models where LSTM is upgraded model of RNN.
 
