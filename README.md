@@ -1,5 +1,7 @@
 # Google-stock-prediction-using-LSTM-Tensorflow
 
+![](Stock.jpg)
+
 1. RNN and LSTM are sequential learning models where LSTM is upgraded model of RNN.
 
 2. The target in this project is to predict the next day Google stock price using LSTM
