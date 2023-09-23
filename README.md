@@ -9,7 +9,8 @@
 4. The prediction stock price graph is exactly following the actual price graph.
 
 ## Dataset
-The data file (CSV) is available above.
+
+The dataset is available on [Yahoo Finance](https://finance.yahoo.com/quote/GOOG/history/)
 
 ## EDA
 
