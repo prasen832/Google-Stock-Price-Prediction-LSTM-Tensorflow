@@ -44,11 +44,11 @@ The dataset is available on [Yahoo Finance](https://finance.yahoo.com/quote/GOOG
 
 ## Plot Validation Loss
 
-![V][Vloss.png]
+![V](Vloss.png)
 
 ## Plot Training Loss
 
-![T][Tloss.png]
+![T](Tloss.png)
 
 ## LSTM Model Performance on Test Data
 
