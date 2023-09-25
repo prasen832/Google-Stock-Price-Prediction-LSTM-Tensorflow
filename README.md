@@ -42,11 +42,11 @@ The dataset is available on [Yahoo Finance](https://finance.yahoo.com/quote/GOOG
 6. If the loss is reducing then the model is working perfectly.
 7. At the end of training the loss should be as minimal as possible.
 
-## Plot Validation Loss
+## Validation Loss Plot
 
 ![V](Vloss.png)
 
-## Plot Training Loss
+## Training Loss Plot
 
 ![T](Tloss.png)
 
