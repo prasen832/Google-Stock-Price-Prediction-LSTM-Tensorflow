@@ -3,9 +3,9 @@
 ![stock](Stock.jpg)
 
 ## Overview
-1. RNN and LSTM are sequential learning models where LSTM is an upgraded model of RNN.
-2. The target of this Machine Learning project is to predict the next day's Google stock  open price using LSTM model.
-3. An LSTM-based neural network is designed with Keras in Tensorflow 2 to predict the next day's stock open price.
+1. RNN and LSTM are sequential learning models whereas LSTM is an upgraded model of RNN.
+2. The target of this Machine Learning project is to predict the next day's Google stock  open price using the LSTM model.
+3. An LSTM-based neural network is designed with Keras in Tensorflow 2 to predict the next day's stock Hihj price.
 4. The prediction stock price graph is exactly following the actual price graph.
 
 ## Dataset
@@ -23,14 +23,14 @@ The dataset is available on [Yahoo Finance](https://finance.yahoo.com/quote/GOOG
 
 ## Feature Engineering
 
-1. Make Date column as pandas DATETIME datatype.
-2. Create day, month and year as 3 new features form Date column.
+1. Make the Date column as pandas DATETIME datatype.
+2. Create day, month and year as 3 new features from the Date column.
 3. For training data we will take data before 2019-01-01.
 4. For testing data we will take data on and after 2019-01-01.
-5. Delete Date column as we no longer needed it.
+5. Delete the Date column as we no longer need it.
 6. Do Feature normalization using MinMaxScaler()
-7. x_train should contain previous 60 samples with all features.  
-8. y_train should contain 61th sample of 'Open' value as we are predicting stock open price for next day.
+7. x_train should contain the previous 60 samples with all features.  
+8. y_train should contain the 61st sample of 'Open' value as we are predicting the stock's High price for the next day.
 
 ## LSTM Model
 
@@ -44,18 +44,24 @@ The dataset is available on [Yahoo Finance](https://finance.yahoo.com/quote/GOOG
 
 ## Plot Validation Loss
 
+![V][Vloss.png]
+
 ## Plot Training Loss
+
+![T][Tloss.png]
 
 ## LSTM Model Performance on Test Data
 
 The **Regression Model** performance should be **evaluated** on **Mean Absolute Percentage Error.**
 
-#### The Percentage Accuracy for Test data is  %
+#### The Percentage Accuracy for Test data is 91.14 %
 
-#### The Mean Absolute Percentage Error for Test data  %
+#### The Mean Absolute Percentage Error for Test data is 8.86 %
 
 ## Prediction Plot
 
+![r](result.png)
+
 ## Conclusion 
 
-#### The prediction graph is exactly following the actual graph bus still accuracy improvement is needed.
+#### The prediction graph exactly follows the actual graph bus accuracy improvement is still needed.
