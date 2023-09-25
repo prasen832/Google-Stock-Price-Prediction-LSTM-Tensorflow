@@ -1,4 +1,4 @@
-# Google Stock Prediction Using LSTM Tensorflow
+# Google Stock Price Prediction Using LSTM Tensorflow
 
 ![stock](Stock.jpg)
 
