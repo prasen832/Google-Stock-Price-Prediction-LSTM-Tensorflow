@@ -42,7 +42,11 @@ The dataset is available on [Yahoo Finance](https://finance.yahoo.com/quote/GOOG
 6. If the loss is reducing then the model is working perfectly.
 7. At the end of training the loss should be as minimal as possible.
 
-## LSTM Model Performance
+## Plot Validation Loss
+
+## Plot Training Loss
+
+## LSTM Model Performance on Test Data
 
 The **Regression Model** performance should be **evaluated** on **Mean Absolute Percentage Error.**
 
