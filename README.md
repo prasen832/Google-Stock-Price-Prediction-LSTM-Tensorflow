@@ -3,9 +3,10 @@
 ![stock](Stock.jpg)
 
 ## Overview
-1. RNN and LSTM are sequential learning models whereas LSTM is an upgraded model of RNN.
-2. The target of this Machine Learning project is to predict the next day's Google stock  open price using the LSTM model.
-3. An LSTM-based neural network is designed with Keras in Tensorflow 2 to predict the next day's stock Hihj price.
+
+1. The Target of this Machine Learning project is to predict the next day's Google stock's Highest price using the LSTM model.
+2. An LSTM-based neural network is designed with Keras in Tensorflow 2 to predict the next day's stock's Highest price.
+3. RNN and LSTM are sequential learning models whereas LSTM is an upgraded model of RNN.
 4. The prediction stock price graph is exactly following the actual price graph.
 
 ## Dataset
