@@ -67,4 +67,4 @@ The **Regression Model** performance should be **evaluated** on **Mean Absolute 
 
 #### The prediction graph exactly follows the actual graph bus accuracy improvement is still needed.
 
-### Now, let's jump into the Jupyter Notebook and begin the Coding work.
+### Now, let's jump into the Jupyter Notebook and take a look at the Python Code Implementation.
